@@ -1,7 +1,13 @@
 @import "./scss/variables";
 
 body {
-  background-color: $dark-blue;
+  margin: 0;
+  background-color: $medium-blue;
   font-family: "Montserrat", sans-serif;
   color: $white;
+}
+
+a {
+  color: $white;
+  text-decoration: none;
 }
