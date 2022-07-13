@@ -1,0 +1,44 @@
+@import "../../scss/variables";
+
+header {
+  height: 6rem;
+  display: flex;
+  background-color: $dark-blue;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-container {
+  width: 90%;
+  align-items: center;
+  justify-content: space-between;
+  max-width: $portatil-large;
+  display: flex;
+  height: 45%;
+
+  &--logo {
+    cursor: pointer;
+    transition: 0.5s ease;
+    font-weight: 700;
+    font-size: 2rem;
+
+    &:hover {
+      color: $pink;
+    }
+  }
+
+  &__github {
+    height: 100%;
+
+    &--link {
+      fill: $white;
+      transition: 0.5s ease;
+      cursor: pointer;
+      height: 100%;
+
+      &:hover {
+        fill: $pink;
+      }
+    }
+  }
+}
