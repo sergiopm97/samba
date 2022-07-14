@@ -1,2 +1,5 @@
 # Node.js packages
 node_modules
+
+# Python environment
+env
