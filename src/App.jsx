@@ -1,6 +1,7 @@
 import Header from "./components/header/Header";
 import OrdersKPI from "./components/ordersKPI/OrdersKPI";
 import SalesKPI from "./components/salesKPI/salesKPI";
+import InstallmentsKPI from "./components/installmentsKPI/InstallmentsKPI";
 import "./App.scss";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <div className="kpis-container">
         <OrdersKPI />
         <SalesKPI />
+        <InstallmentsKPI />
       </div>
     </>
   );
