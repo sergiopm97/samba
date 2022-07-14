@@ -1,0 +1,10 @@
+@import "./scss/variables";
+
+.kpis-container {
+  width: 90%;
+  flex-wrap: wrap;
+  margin: 2rem auto;
+  max-width: $portatil-large;
+  display: flex;
+  gap: 1rem;
+}
