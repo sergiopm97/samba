@@ -1,6 +1,8 @@
 import pandas as pd
 import json
 
+from utilities import format_payment_values
+
 
 if __name__ == "__main__":
 
@@ -15,6 +17,10 @@ if __name__ == "__main__":
         .value_counts()
         .reset_index()
         .rename(columns={"index": "Payment type", "payment_type": "Count"})
+    )
+
+    payment_types["Payment type"] = payment_types.apply(
+        lambda x: format_payment_values(x["Payment type"]), axis=1
     )
 
     payments_json = json.dumps(
