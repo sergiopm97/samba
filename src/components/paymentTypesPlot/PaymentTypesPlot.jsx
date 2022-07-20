@@ -7,8 +7,8 @@ function PaymentTypesPlot() {
   let paymentTypes = payments.payment_types;
 
   return (
-    <div className="payment-types-kpi-container">
-      <h1 className="payment-types-kpi-container--title">Payment types distribution</h1>
+    <div className="payment-types-plot-container">
+      <h1 className="payment-types-plot-container--title">Payment types distribution</h1>
       <BarChart width={600} height={300} data={paymentTypes}>
         <CartesianGrid strokeDasharray="3 3" />
         <Tooltip cursor={{ fill: colors.mediumBlue, opacity: 0.75 }} content={<CustomToolTip />} />
