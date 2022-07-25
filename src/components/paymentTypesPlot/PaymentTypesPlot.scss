@@ -1,4 +1,5 @@
 @import "../../scss/variables";
+@import "../../scss/responsive";
 
 .payment-types-plot-container {
   gap: 1rem;
@@ -11,13 +12,26 @@
   align-items: center;
   display: flex;
   flex-grow: 1;
+  width: 40%;
 
   &:hover {
     box-shadow: 8px 8px 0px 0px $pink;
   }
 
+  @include responsive(portatil-standard) {
+    width: inherit;
+  }
+
+  @include responsive(mobile-large) {
+    padding: 1rem 0rem 1rem 0rem;
+  }
+
   &--title {
     font-size: 1.5rem;
+
+    @include responsive(mobile-large) {
+      width: 90%;
+    }
   }
 }
 
