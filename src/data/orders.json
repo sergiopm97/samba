@@ -1,0 +1,36 @@
+{
+    "order_status": [
+        {
+            "Order status": "Delivered",
+            "Count": 96478
+        },
+        {
+            "Order status": "Shipped",
+            "Count": 1107
+        },
+        {
+            "Order status": "Canceled",
+            "Count": 625
+        },
+        {
+            "Order status": "Unavailable",
+            "Count": 609
+        },
+        {
+            "Order status": "Invoiced",
+            "Count": 314
+        },
+        {
+            "Order status": "Processing",
+            "Count": 301
+        },
+        {
+            "Order status": "Created",
+            "Count": 5
+        },
+        {
+            "Order status": "Approved",
+            "Count": 2
+        }
+    ]
+}
