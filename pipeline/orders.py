@@ -19,9 +19,20 @@ if __name__ == "__main__":
         lambda x: format_payment_values(x["Order status"]), axis=1
     )
 
+    purchases_by_date = (
+        orders_df.apply(lambda x: x["order_purchase_timestamp"][0:10], axis=1)
+        .value_counts()
+        .reset_index()
+        .rename(columns={"index": "Purchase date", 0: "Count"})
+        .sort_values(by="Purchase date")
+    )
+
     orders_json = json.dumps(
         {
             "order_status": json.loads(order_status.to_json(orient="records")),
+            "purchases_by_date": json.loads(
+                purchases_by_date.to_json(orient="records")
+            ),
         }
     )
 
