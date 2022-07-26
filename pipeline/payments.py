@@ -32,5 +32,5 @@ if __name__ == "__main__":
         }
     )
 
-    with open("src/data/payments.json", "w") as number_of_orders_file:
-        number_of_orders_file.write(payments_json)
+    with open("src/data/payments.json", "w") as payments_file:
+        payments_file.write(payments_json)
