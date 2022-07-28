@@ -1,5 +1,5 @@
-import GitHub from "./Github";
-import "./Header.scss";
+import GitHub from "./GitHub";
+import "./utilities/header.scss";
 
 function Header() {
   return (

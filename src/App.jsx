@@ -1,11 +1,11 @@
-import Header from "./components/header/Header";
-import OrdersKPI from "./components/ordersKPI/OrdersKPI";
-import SalesKPI from "./components/salesKPI/salesKPI";
-import InstallmentsKPI from "./components/installmentsKPI/InstallmentsKPI";
-import PaymentTypesPlot from "./components/paymentTypesPlot/PaymentTypesPlot";
-import OrderStatusPlot from "./components/orderStatusPlot/orderStatusPlot";
-import PurchasesByDatePlot from "./components/purchasesByDatePlot/PurchasesByDatePlot";
-import OrdersByCategoryPlot from "./components/ordersByCategoryPlot/OrdersByCategoryPlot";
+import Header from "./components/Header";
+import OrdersKPI from "./components/OrdersKPI";
+import SalesKPI from "./components/SalesKPI";
+import InstallmentsKPI from "./components/InstallmentsKPI";
+import PaymentTypesPlot from "./components/PaymentTypesPlot";
+import OrderStatusPlot from "./components/OrderStatusPlot";
+import PurchasesByDatePlot from "./components/PurchasesByDatePlot";
+import OrdersByCategoryPlot from "./components/OrdersByCategoryPlot";
 import "./App.scss";
 
 function App() {
