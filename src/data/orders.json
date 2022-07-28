@@ -1,0 +1,2574 @@
+{
+    "order_status": [
+        {
+            "Order status": "Delivered",
+            "Count": 96478
+        },
+        {
+            "Order status": "Shipped",
+            "Count": 1107
+        },
+        {
+            "Order status": "Canceled",
+            "Count": 625
+        },
+        {
+            "Order status": "Unavailable",
+            "Count": 609
+        },
+        {
+            "Order status": "Invoiced",
+            "Count": 314
+        },
+        {
+            "Order status": "Processing",
+            "Count": 301
+        },
+        {
+            "Order status": "Created",
+            "Count": 5
+        },
+        {
+            "Order status": "Approved",
+            "Count": 2
+        }
+    ],
+    "purchases_by_date": [
+        {
+            "Purchase date": "2016-09-04",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2016-09-05",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2016-09-13",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2016-09-15",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2016-10-02",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2016-10-03",
+            "Count": 8
+        },
+        {
+            "Purchase date": "2016-10-04",
+            "Count": 63
+        },
+        {
+            "Purchase date": "2016-10-05",
+            "Count": 47
+        },
+        {
+            "Purchase date": "2016-10-06",
+            "Count": 51
+        },
+        {
+            "Purchase date": "2016-10-07",
+            "Count": 46
+        },
+        {
+            "Purchase date": "2016-10-08",
+            "Count": 42
+        },
+        {
+            "Purchase date": "2016-10-09",
+            "Count": 26
+        },
+        {
+            "Purchase date": "2016-10-10",
+            "Count": 39
+        },
+        {
+            "Purchase date": "2016-10-22",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2016-12-23",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2017-01-05",
+            "Count": 32
+        },
+        {
+            "Purchase date": "2017-01-06",
+            "Count": 4
+        },
+        {
+            "Purchase date": "2017-01-07",
+            "Count": 4
+        },
+        {
+            "Purchase date": "2017-01-08",
+            "Count": 6
+        },
+        {
+            "Purchase date": "2017-01-09",
+            "Count": 5
+        },
+        {
+            "Purchase date": "2017-01-10",
+            "Count": 6
+        },
+        {
+            "Purchase date": "2017-01-11",
+            "Count": 12
+        },
+        {
+            "Purchase date": "2017-01-12",
+            "Count": 13
+        },
+        {
+            "Purchase date": "2017-01-13",
+            "Count": 12
+        },
+        {
+            "Purchase date": "2017-01-14",
+            "Count": 18
+        },
+        {
+            "Purchase date": "2017-01-15",
+            "Count": 14
+        },
+        {
+            "Purchase date": "2017-01-16",
+            "Count": 19
+        },
+        {
+            "Purchase date": "2017-01-17",
+            "Count": 32
+        },
+        {
+            "Purchase date": "2017-01-18",
+            "Count": 33
+        },
+        {
+            "Purchase date": "2017-01-19",
+            "Count": 29
+        },
+        {
+            "Purchase date": "2017-01-20",
+            "Count": 29
+        },
+        {
+            "Purchase date": "2017-01-21",
+            "Count": 24
+        },
+        {
+            "Purchase date": "2017-01-22",
+            "Count": 31
+        },
+        {
+            "Purchase date": "2017-01-23",
+            "Count": 39
+        },
+        {
+            "Purchase date": "2017-01-24",
+            "Count": 40
+        },
+        {
+            "Purchase date": "2017-01-25",
+            "Count": 63
+        },
+        {
+            "Purchase date": "2017-01-26",
+            "Count": 86
+        },
+        {
+            "Purchase date": "2017-01-27",
+            "Count": 62
+        },
+        {
+            "Purchase date": "2017-01-28",
+            "Count": 29
+        },
+        {
+            "Purchase date": "2017-01-29",
+            "Count": 35
+        },
+        {
+            "Purchase date": "2017-01-30",
+            "Count": 53
+        },
+        {
+            "Purchase date": "2017-01-31",
+            "Count": 70
+        },
+        {
+            "Purchase date": "2017-02-01",
+            "Count": 73
+        },
+        {
+            "Purchase date": "2017-02-02",
+            "Count": 69
+        },
+        {
+            "Purchase date": "2017-02-03",
+            "Count": 60
+        },
+        {
+            "Purchase date": "2017-02-04",
+            "Count": 67
+        },
+        {
+            "Purchase date": "2017-02-05",
+            "Count": 75
+        },
+        {
+            "Purchase date": "2017-02-06",
+            "Count": 85
+        },
+        {
+            "Purchase date": "2017-02-07",
+            "Count": 112
+        },
+        {
+            "Purchase date": "2017-02-08",
+            "Count": 95
+        },
+        {
+            "Purchase date": "2017-02-09",
+            "Count": 77
+        },
+        {
+            "Purchase date": "2017-02-10",
+            "Count": 66
+        },
+        {
+            "Purchase date": "2017-02-11",
+            "Count": 49
+        },
+        {
+            "Purchase date": "2017-02-12",
+            "Count": 64
+        },
+        {
+            "Purchase date": "2017-02-13",
+            "Count": 78
+        },
+        {
+            "Purchase date": "2017-02-14",
+            "Count": 76
+        },
+        {
+            "Purchase date": "2017-02-15",
+            "Count": 62
+        },
+        {
+            "Purchase date": "2017-02-16",
+            "Count": 55
+        },
+        {
+            "Purchase date": "2017-02-17",
+            "Count": 46
+        },
+        {
+            "Purchase date": "2017-02-18",
+            "Count": 54
+        },
+        {
+            "Purchase date": "2017-02-19",
+            "Count": 40
+        },
+        {
+            "Purchase date": "2017-02-20",
+            "Count": 63
+        },
+        {
+            "Purchase date": "2017-02-21",
+            "Count": 41
+        },
+        {
+            "Purchase date": "2017-02-22",
+            "Count": 63
+        },
+        {
+            "Purchase date": "2017-02-23",
+            "Count": 59
+        },
+        {
+            "Purchase date": "2017-02-24",
+            "Count": 64
+        },
+        {
+            "Purchase date": "2017-02-25",
+            "Count": 43
+        },
+        {
+            "Purchase date": "2017-02-26",
+            "Count": 46
+        },
+        {
+            "Purchase date": "2017-02-27",
+            "Count": 43
+        },
+        {
+            "Purchase date": "2017-02-28",
+            "Count": 55
+        },
+        {
+            "Purchase date": "2017-03-01",
+            "Count": 99
+        },
+        {
+            "Purchase date": "2017-03-02",
+            "Count": 72
+        },
+        {
+            "Purchase date": "2017-03-03",
+            "Count": 74
+        },
+        {
+            "Purchase date": "2017-03-04",
+            "Count": 80
+        },
+        {
+            "Purchase date": "2017-03-05",
+            "Count": 74
+        },
+        {
+            "Purchase date": "2017-03-06",
+            "Count": 105
+        },
+        {
+            "Purchase date": "2017-03-07",
+            "Count": 82
+        },
+        {
+            "Purchase date": "2017-03-08",
+            "Count": 79
+        },
+        {
+            "Purchase date": "2017-03-09",
+            "Count": 93
+        },
+        {
+            "Purchase date": "2017-03-10",
+            "Count": 88
+        },
+        {
+            "Purchase date": "2017-03-11",
+            "Count": 71
+        },
+        {
+            "Purchase date": "2017-03-12",
+            "Count": 64
+        },
+        {
+            "Purchase date": "2017-03-13",
+            "Count": 111
+        },
+        {
+            "Purchase date": "2017-03-14",
+            "Count": 99
+        },
+        {
+            "Purchase date": "2017-03-15",
+            "Count": 108
+        },
+        {
+            "Purchase date": "2017-03-16",
+            "Count": 103
+        },
+        {
+            "Purchase date": "2017-03-17",
+            "Count": 65
+        },
+        {
+            "Purchase date": "2017-03-18",
+            "Count": 73
+        },
+        {
+            "Purchase date": "2017-03-19",
+            "Count": 56
+        },
+        {
+            "Purchase date": "2017-03-20",
+            "Count": 119
+        },
+        {
+            "Purchase date": "2017-03-21",
+            "Count": 97
+        },
+        {
+            "Purchase date": "2017-03-22",
+            "Count": 105
+        },
+        {
+            "Purchase date": "2017-03-23",
+            "Count": 114
+        },
+        {
+            "Purchase date": "2017-03-24",
+            "Count": 79
+        },
+        {
+            "Purchase date": "2017-03-25",
+            "Count": 76
+        },
+        {
+            "Purchase date": "2017-03-26",
+            "Count": 64
+        },
+        {
+            "Purchase date": "2017-03-27",
+            "Count": 111
+        },
+        {
+            "Purchase date": "2017-03-28",
+            "Count": 103
+        },
+        {
+            "Purchase date": "2017-03-29",
+            "Count": 74
+        },
+        {
+            "Purchase date": "2017-03-30",
+            "Count": 74
+        },
+        {
+            "Purchase date": "2017-03-31",
+            "Count": 70
+        },
+        {
+            "Purchase date": "2017-04-01",
+            "Count": 68
+        },
+        {
+            "Purchase date": "2017-04-02",
+            "Count": 65
+        },
+        {
+            "Purchase date": "2017-04-03",
+            "Count": 72
+        },
+        {
+            "Purchase date": "2017-04-04",
+            "Count": 96
+        },
+        {
+            "Purchase date": "2017-04-05",
+            "Count": 96
+        },
+        {
+            "Purchase date": "2017-04-06",
+            "Count": 96
+        },
+        {
+            "Purchase date": "2017-04-07",
+            "Count": 85
+        },
+        {
+            "Purchase date": "2017-04-08",
+            "Count": 68
+        },
+        {
+            "Purchase date": "2017-04-09",
+            "Count": 73
+        },
+        {
+            "Purchase date": "2017-04-10",
+            "Count": 87
+        },
+        {
+            "Purchase date": "2017-04-11",
+            "Count": 78
+        },
+        {
+            "Purchase date": "2017-04-12",
+            "Count": 63
+        },
+        {
+            "Purchase date": "2017-04-13",
+            "Count": 60
+        },
+        {
+            "Purchase date": "2017-04-14",
+            "Count": 54
+        },
+        {
+            "Purchase date": "2017-04-15",
+            "Count": 52
+        },
+        {
+            "Purchase date": "2017-04-16",
+            "Count": 49
+        },
+        {
+            "Purchase date": "2017-04-17",
+            "Count": 65
+        },
+        {
+            "Purchase date": "2017-04-18",
+            "Count": 71
+        },
+        {
+            "Purchase date": "2017-04-19",
+            "Count": 97
+        },
+        {
+            "Purchase date": "2017-04-20",
+            "Count": 98
+        },
+        {
+            "Purchase date": "2017-04-21",
+            "Count": 68
+        },
+        {
+            "Purchase date": "2017-04-22",
+            "Count": 84
+        },
+        {
+            "Purchase date": "2017-04-23",
+            "Count": 88
+        },
+        {
+            "Purchase date": "2017-04-24",
+            "Count": 115
+        },
+        {
+            "Purchase date": "2017-04-25",
+            "Count": 111
+        },
+        {
+            "Purchase date": "2017-04-26",
+            "Count": 125
+        },
+        {
+            "Purchase date": "2017-04-27",
+            "Count": 80
+        },
+        {
+            "Purchase date": "2017-04-28",
+            "Count": 98
+        },
+        {
+            "Purchase date": "2017-04-29",
+            "Count": 74
+        },
+        {
+            "Purchase date": "2017-04-30",
+            "Count": 68
+        },
+        {
+            "Purchase date": "2017-05-01",
+            "Count": 117
+        },
+        {
+            "Purchase date": "2017-05-02",
+            "Count": 128
+        },
+        {
+            "Purchase date": "2017-05-03",
+            "Count": 103
+        },
+        {
+            "Purchase date": "2017-05-04",
+            "Count": 109
+        },
+        {
+            "Purchase date": "2017-05-05",
+            "Count": 111
+        },
+        {
+            "Purchase date": "2017-05-06",
+            "Count": 109
+        },
+        {
+            "Purchase date": "2017-05-07",
+            "Count": 111
+        },
+        {
+            "Purchase date": "2017-05-08",
+            "Count": 124
+        },
+        {
+            "Purchase date": "2017-05-09",
+            "Count": 128
+        },
+        {
+            "Purchase date": "2017-05-10",
+            "Count": 116
+        },
+        {
+            "Purchase date": "2017-05-11",
+            "Count": 126
+        },
+        {
+            "Purchase date": "2017-05-12",
+            "Count": 115
+        },
+        {
+            "Purchase date": "2017-05-13",
+            "Count": 73
+        },
+        {
+            "Purchase date": "2017-05-14",
+            "Count": 112
+        },
+        {
+            "Purchase date": "2017-05-15",
+            "Count": 157
+        },
+        {
+            "Purchase date": "2017-05-16",
+            "Count": 153
+        },
+        {
+            "Purchase date": "2017-05-17",
+            "Count": 141
+        },
+        {
+            "Purchase date": "2017-05-18",
+            "Count": 125
+        },
+        {
+            "Purchase date": "2017-05-19",
+            "Count": 144
+        },
+        {
+            "Purchase date": "2017-05-20",
+            "Count": 72
+        },
+        {
+            "Purchase date": "2017-05-21",
+            "Count": 148
+        },
+        {
+            "Purchase date": "2017-05-22",
+            "Count": 148
+        },
+        {
+            "Purchase date": "2017-05-23",
+            "Count": 125
+        },
+        {
+            "Purchase date": "2017-05-24",
+            "Count": 142
+        },
+        {
+            "Purchase date": "2017-05-25",
+            "Count": 108
+        },
+        {
+            "Purchase date": "2017-05-26",
+            "Count": 80
+        },
+        {
+            "Purchase date": "2017-05-27",
+            "Count": 83
+        },
+        {
+            "Purchase date": "2017-05-28",
+            "Count": 98
+        },
+        {
+            "Purchase date": "2017-05-29",
+            "Count": 160
+        },
+        {
+            "Purchase date": "2017-05-30",
+            "Count": 105
+        },
+        {
+            "Purchase date": "2017-05-31",
+            "Count": 129
+        },
+        {
+            "Purchase date": "2017-06-01",
+            "Count": 124
+        },
+        {
+            "Purchase date": "2017-06-02",
+            "Count": 127
+        },
+        {
+            "Purchase date": "2017-06-03",
+            "Count": 89
+        },
+        {
+            "Purchase date": "2017-06-04",
+            "Count": 102
+        },
+        {
+            "Purchase date": "2017-06-05",
+            "Count": 147
+        },
+        {
+            "Purchase date": "2017-06-06",
+            "Count": 134
+        },
+        {
+            "Purchase date": "2017-06-07",
+            "Count": 129
+        },
+        {
+            "Purchase date": "2017-06-08",
+            "Count": 137
+        },
+        {
+            "Purchase date": "2017-06-09",
+            "Count": 108
+        },
+        {
+            "Purchase date": "2017-06-10",
+            "Count": 77
+        },
+        {
+            "Purchase date": "2017-06-11",
+            "Count": 115
+        },
+        {
+            "Purchase date": "2017-06-12",
+            "Count": 126
+        },
+        {
+            "Purchase date": "2017-06-13",
+            "Count": 126
+        },
+        {
+            "Purchase date": "2017-06-14",
+            "Count": 131
+        },
+        {
+            "Purchase date": "2017-06-15",
+            "Count": 108
+        },
+        {
+            "Purchase date": "2017-06-16",
+            "Count": 97
+        },
+        {
+            "Purchase date": "2017-06-17",
+            "Count": 75
+        },
+        {
+            "Purchase date": "2017-06-18",
+            "Count": 90
+        },
+        {
+            "Purchase date": "2017-06-19",
+            "Count": 156
+        },
+        {
+            "Purchase date": "2017-06-20",
+            "Count": 94
+        },
+        {
+            "Purchase date": "2017-06-21",
+            "Count": 35
+        },
+        {
+            "Purchase date": "2017-06-22",
+            "Count": 88
+        },
+        {
+            "Purchase date": "2017-06-23",
+            "Count": 107
+        },
+        {
+            "Purchase date": "2017-06-24",
+            "Count": 76
+        },
+        {
+            "Purchase date": "2017-06-25",
+            "Count": 105
+        },
+        {
+            "Purchase date": "2017-06-26",
+            "Count": 72
+        },
+        {
+            "Purchase date": "2017-06-27",
+            "Count": 141
+        },
+        {
+            "Purchase date": "2017-06-28",
+            "Count": 120
+        },
+        {
+            "Purchase date": "2017-06-29",
+            "Count": 114
+        },
+        {
+            "Purchase date": "2017-06-30",
+            "Count": 95
+        },
+        {
+            "Purchase date": "2017-07-01",
+            "Count": 80
+        },
+        {
+            "Purchase date": "2017-07-02",
+            "Count": 108
+        },
+        {
+            "Purchase date": "2017-07-03",
+            "Count": 118
+        },
+        {
+            "Purchase date": "2017-07-04",
+            "Count": 125
+        },
+        {
+            "Purchase date": "2017-07-05",
+            "Count": 145
+        },
+        {
+            "Purchase date": "2017-07-06",
+            "Count": 154
+        },
+        {
+            "Purchase date": "2017-07-07",
+            "Count": 121
+        },
+        {
+            "Purchase date": "2017-07-08",
+            "Count": 84
+        },
+        {
+            "Purchase date": "2017-07-09",
+            "Count": 94
+        },
+        {
+            "Purchase date": "2017-07-10",
+            "Count": 143
+        },
+        {
+            "Purchase date": "2017-07-11",
+            "Count": 165
+        },
+        {
+            "Purchase date": "2017-07-12",
+            "Count": 153
+        },
+        {
+            "Purchase date": "2017-07-13",
+            "Count": 137
+        },
+        {
+            "Purchase date": "2017-07-14",
+            "Count": 149
+        },
+        {
+            "Purchase date": "2017-07-15",
+            "Count": 98
+        },
+        {
+            "Purchase date": "2017-07-16",
+            "Count": 114
+        },
+        {
+            "Purchase date": "2017-07-17",
+            "Count": 168
+        },
+        {
+            "Purchase date": "2017-07-18",
+            "Count": 192
+        },
+        {
+            "Purchase date": "2017-07-19",
+            "Count": 153
+        },
+        {
+            "Purchase date": "2017-07-20",
+            "Count": 142
+        },
+        {
+            "Purchase date": "2017-07-21",
+            "Count": 115
+        },
+        {
+            "Purchase date": "2017-07-22",
+            "Count": 88
+        },
+        {
+            "Purchase date": "2017-07-23",
+            "Count": 105
+        },
+        {
+            "Purchase date": "2017-07-24",
+            "Count": 162
+        },
+        {
+            "Purchase date": "2017-07-25",
+            "Count": 153
+        },
+        {
+            "Purchase date": "2017-07-26",
+            "Count": 124
+        },
+        {
+            "Purchase date": "2017-07-27",
+            "Count": 124
+        },
+        {
+            "Purchase date": "2017-07-28",
+            "Count": 132
+        },
+        {
+            "Purchase date": "2017-07-29",
+            "Count": 115
+        },
+        {
+            "Purchase date": "2017-07-30",
+            "Count": 117
+        },
+        {
+            "Purchase date": "2017-07-31",
+            "Count": 148
+        },
+        {
+            "Purchase date": "2017-08-01",
+            "Count": 165
+        },
+        {
+            "Purchase date": "2017-08-02",
+            "Count": 157
+        },
+        {
+            "Purchase date": "2017-08-03",
+            "Count": 148
+        },
+        {
+            "Purchase date": "2017-08-04",
+            "Count": 142
+        },
+        {
+            "Purchase date": "2017-08-05",
+            "Count": 115
+        },
+        {
+            "Purchase date": "2017-08-06",
+            "Count": 109
+        },
+        {
+            "Purchase date": "2017-08-07",
+            "Count": 157
+        },
+        {
+            "Purchase date": "2017-08-08",
+            "Count": 146
+        },
+        {
+            "Purchase date": "2017-08-09",
+            "Count": 144
+        },
+        {
+            "Purchase date": "2017-08-10",
+            "Count": 157
+        },
+        {
+            "Purchase date": "2017-08-11",
+            "Count": 141
+        },
+        {
+            "Purchase date": "2017-08-12",
+            "Count": 98
+        },
+        {
+            "Purchase date": "2017-08-13",
+            "Count": 96
+        },
+        {
+            "Purchase date": "2017-08-14",
+            "Count": 159
+        },
+        {
+            "Purchase date": "2017-08-15",
+            "Count": 194
+        },
+        {
+            "Purchase date": "2017-08-16",
+            "Count": 174
+        },
+        {
+            "Purchase date": "2017-08-17",
+            "Count": 158
+        },
+        {
+            "Purchase date": "2017-08-18",
+            "Count": 147
+        },
+        {
+            "Purchase date": "2017-08-19",
+            "Count": 108
+        },
+        {
+            "Purchase date": "2017-08-20",
+            "Count": 104
+        },
+        {
+            "Purchase date": "2017-08-21",
+            "Count": 177
+        },
+        {
+            "Purchase date": "2017-08-22",
+            "Count": 138
+        },
+        {
+            "Purchase date": "2017-08-23",
+            "Count": 112
+        },
+        {
+            "Purchase date": "2017-08-24",
+            "Count": 128
+        },
+        {
+            "Purchase date": "2017-08-25",
+            "Count": 123
+        },
+        {
+            "Purchase date": "2017-08-26",
+            "Count": 93
+        },
+        {
+            "Purchase date": "2017-08-27",
+            "Count": 119
+        },
+        {
+            "Purchase date": "2017-08-28",
+            "Count": 155
+        },
+        {
+            "Purchase date": "2017-08-29",
+            "Count": 137
+        },
+        {
+            "Purchase date": "2017-08-30",
+            "Count": 181
+        },
+        {
+            "Purchase date": "2017-08-31",
+            "Count": 149
+        },
+        {
+            "Purchase date": "2017-09-01",
+            "Count": 158
+        },
+        {
+            "Purchase date": "2017-09-02",
+            "Count": 104
+        },
+        {
+            "Purchase date": "2017-09-03",
+            "Count": 125
+        },
+        {
+            "Purchase date": "2017-09-04",
+            "Count": 150
+        },
+        {
+            "Purchase date": "2017-09-05",
+            "Count": 157
+        },
+        {
+            "Purchase date": "2017-09-06",
+            "Count": 140
+        },
+        {
+            "Purchase date": "2017-09-07",
+            "Count": 99
+        },
+        {
+            "Purchase date": "2017-09-08",
+            "Count": 116
+        },
+        {
+            "Purchase date": "2017-09-09",
+            "Count": 106
+        },
+        {
+            "Purchase date": "2017-09-10",
+            "Count": 136
+        },
+        {
+            "Purchase date": "2017-09-11",
+            "Count": 180
+        },
+        {
+            "Purchase date": "2017-09-12",
+            "Count": 206
+        },
+        {
+            "Purchase date": "2017-09-13",
+            "Count": 207
+        },
+        {
+            "Purchase date": "2017-09-14",
+            "Count": 166
+        },
+        {
+            "Purchase date": "2017-09-15",
+            "Count": 150
+        },
+        {
+            "Purchase date": "2017-09-16",
+            "Count": 129
+        },
+        {
+            "Purchase date": "2017-09-17",
+            "Count": 126
+        },
+        {
+            "Purchase date": "2017-09-18",
+            "Count": 183
+        },
+        {
+            "Purchase date": "2017-09-19",
+            "Count": 154
+        },
+        {
+            "Purchase date": "2017-09-20",
+            "Count": 163
+        },
+        {
+            "Purchase date": "2017-09-21",
+            "Count": 150
+        },
+        {
+            "Purchase date": "2017-09-22",
+            "Count": 138
+        },
+        {
+            "Purchase date": "2017-09-23",
+            "Count": 88
+        },
+        {
+            "Purchase date": "2017-09-24",
+            "Count": 118
+        },
+        {
+            "Purchase date": "2017-09-25",
+            "Count": 136
+        },
+        {
+            "Purchase date": "2017-09-26",
+            "Count": 180
+        },
+        {
+            "Purchase date": "2017-09-27",
+            "Count": 147
+        },
+        {
+            "Purchase date": "2017-09-28",
+            "Count": 143
+        },
+        {
+            "Purchase date": "2017-09-29",
+            "Count": 121
+        },
+        {
+            "Purchase date": "2017-09-30",
+            "Count": 109
+        },
+        {
+            "Purchase date": "2017-10-01",
+            "Count": 128
+        },
+        {
+            "Purchase date": "2017-10-02",
+            "Count": 143
+        },
+        {
+            "Purchase date": "2017-10-03",
+            "Count": 198
+        },
+        {
+            "Purchase date": "2017-10-04",
+            "Count": 157
+        },
+        {
+            "Purchase date": "2017-10-05",
+            "Count": 140
+        },
+        {
+            "Purchase date": "2017-10-06",
+            "Count": 130
+        },
+        {
+            "Purchase date": "2017-10-07",
+            "Count": 105
+        },
+        {
+            "Purchase date": "2017-10-08",
+            "Count": 126
+        },
+        {
+            "Purchase date": "2017-10-09",
+            "Count": 193
+        },
+        {
+            "Purchase date": "2017-10-10",
+            "Count": 185
+        },
+        {
+            "Purchase date": "2017-10-11",
+            "Count": 158
+        },
+        {
+            "Purchase date": "2017-10-12",
+            "Count": 143
+        },
+        {
+            "Purchase date": "2017-10-13",
+            "Count": 154
+        },
+        {
+            "Purchase date": "2017-10-14",
+            "Count": 116
+        },
+        {
+            "Purchase date": "2017-10-15",
+            "Count": 121
+        },
+        {
+            "Purchase date": "2017-10-16",
+            "Count": 195
+        },
+        {
+            "Purchase date": "2017-10-17",
+            "Count": 202
+        },
+        {
+            "Purchase date": "2017-10-18",
+            "Count": 179
+        },
+        {
+            "Purchase date": "2017-10-19",
+            "Count": 176
+        },
+        {
+            "Purchase date": "2017-10-20",
+            "Count": 124
+        },
+        {
+            "Purchase date": "2017-10-21",
+            "Count": 113
+        },
+        {
+            "Purchase date": "2017-10-22",
+            "Count": 158
+        },
+        {
+            "Purchase date": "2017-10-23",
+            "Count": 161
+        },
+        {
+            "Purchase date": "2017-10-24",
+            "Count": 164
+        },
+        {
+            "Purchase date": "2017-10-25",
+            "Count": 156
+        },
+        {
+            "Purchase date": "2017-10-26",
+            "Count": 144
+        },
+        {
+            "Purchase date": "2017-10-27",
+            "Count": 133
+        },
+        {
+            "Purchase date": "2017-10-28",
+            "Count": 88
+        },
+        {
+            "Purchase date": "2017-10-29",
+            "Count": 132
+        },
+        {
+            "Purchase date": "2017-10-30",
+            "Count": 149
+        },
+        {
+            "Purchase date": "2017-10-31",
+            "Count": 160
+        },
+        {
+            "Purchase date": "2017-11-01",
+            "Count": 111
+        },
+        {
+            "Purchase date": "2017-11-02",
+            "Count": 124
+        },
+        {
+            "Purchase date": "2017-11-03",
+            "Count": 143
+        },
+        {
+            "Purchase date": "2017-11-04",
+            "Count": 111
+        },
+        {
+            "Purchase date": "2017-11-05",
+            "Count": 144
+        },
+        {
+            "Purchase date": "2017-11-06",
+            "Count": 193
+        },
+        {
+            "Purchase date": "2017-11-07",
+            "Count": 160
+        },
+        {
+            "Purchase date": "2017-11-08",
+            "Count": 175
+        },
+        {
+            "Purchase date": "2017-11-09",
+            "Count": 191
+        },
+        {
+            "Purchase date": "2017-11-10",
+            "Count": 165
+        },
+        {
+            "Purchase date": "2017-11-11",
+            "Count": 159
+        },
+        {
+            "Purchase date": "2017-11-12",
+            "Count": 174
+        },
+        {
+            "Purchase date": "2017-11-13",
+            "Count": 205
+        },
+        {
+            "Purchase date": "2017-11-14",
+            "Count": 192
+        },
+        {
+            "Purchase date": "2017-11-15",
+            "Count": 186
+        },
+        {
+            "Purchase date": "2017-11-16",
+            "Count": 226
+        },
+        {
+            "Purchase date": "2017-11-17",
+            "Count": 197
+        },
+        {
+            "Purchase date": "2017-11-18",
+            "Count": 149
+        },
+        {
+            "Purchase date": "2017-11-19",
+            "Count": 158
+        },
+        {
+            "Purchase date": "2017-11-20",
+            "Count": 230
+        },
+        {
+            "Purchase date": "2017-11-21",
+            "Count": 228
+        },
+        {
+            "Purchase date": "2017-11-22",
+            "Count": 201
+        },
+        {
+            "Purchase date": "2017-11-23",
+            "Count": 283
+        },
+        {
+            "Purchase date": "2017-11-24",
+            "Count": 1176
+        },
+        {
+            "Purchase date": "2017-11-25",
+            "Count": 499
+        },
+        {
+            "Purchase date": "2017-11-26",
+            "Count": 391
+        },
+        {
+            "Purchase date": "2017-11-27",
+            "Count": 403
+        },
+        {
+            "Purchase date": "2017-11-28",
+            "Count": 380
+        },
+        {
+            "Purchase date": "2017-11-29",
+            "Count": 323
+        },
+        {
+            "Purchase date": "2017-11-30",
+            "Count": 267
+        },
+        {
+            "Purchase date": "2017-12-01",
+            "Count": 275
+        },
+        {
+            "Purchase date": "2017-12-02",
+            "Count": 216
+        },
+        {
+            "Purchase date": "2017-12-03",
+            "Count": 234
+        },
+        {
+            "Purchase date": "2017-12-04",
+            "Count": 337
+        },
+        {
+            "Purchase date": "2017-12-05",
+            "Count": 282
+        },
+        {
+            "Purchase date": "2017-12-06",
+            "Count": 280
+        },
+        {
+            "Purchase date": "2017-12-07",
+            "Count": 229
+        },
+        {
+            "Purchase date": "2017-12-08",
+            "Count": 219
+        },
+        {
+            "Purchase date": "2017-12-09",
+            "Count": 155
+        },
+        {
+            "Purchase date": "2017-12-10",
+            "Count": 190
+        },
+        {
+            "Purchase date": "2017-12-11",
+            "Count": 267
+        },
+        {
+            "Purchase date": "2017-12-12",
+            "Count": 260
+        },
+        {
+            "Purchase date": "2017-12-13",
+            "Count": 218
+        },
+        {
+            "Purchase date": "2017-12-14",
+            "Count": 200
+        },
+        {
+            "Purchase date": "2017-12-15",
+            "Count": 192
+        },
+        {
+            "Purchase date": "2017-12-16",
+            "Count": 131
+        },
+        {
+            "Purchase date": "2017-12-17",
+            "Count": 133
+        },
+        {
+            "Purchase date": "2017-12-18",
+            "Count": 209
+        },
+        {
+            "Purchase date": "2017-12-19",
+            "Count": 176
+        },
+        {
+            "Purchase date": "2017-12-20",
+            "Count": 171
+        },
+        {
+            "Purchase date": "2017-12-21",
+            "Count": 143
+        },
+        {
+            "Purchase date": "2017-12-22",
+            "Count": 111
+        },
+        {
+            "Purchase date": "2017-12-23",
+            "Count": 109
+        },
+        {
+            "Purchase date": "2017-12-24",
+            "Count": 59
+        },
+        {
+            "Purchase date": "2017-12-25",
+            "Count": 90
+        },
+        {
+            "Purchase date": "2017-12-26",
+            "Count": 168
+        },
+        {
+            "Purchase date": "2017-12-27",
+            "Count": 167
+        },
+        {
+            "Purchase date": "2017-12-28",
+            "Count": 146
+        },
+        {
+            "Purchase date": "2017-12-29",
+            "Count": 135
+        },
+        {
+            "Purchase date": "2017-12-30",
+            "Count": 97
+        },
+        {
+            "Purchase date": "2017-12-31",
+            "Count": 74
+        },
+        {
+            "Purchase date": "2018-01-01",
+            "Count": 74
+        },
+        {
+            "Purchase date": "2018-01-02",
+            "Count": 204
+        },
+        {
+            "Purchase date": "2018-01-03",
+            "Count": 225
+        },
+        {
+            "Purchase date": "2018-01-04",
+            "Count": 258
+        },
+        {
+            "Purchase date": "2018-01-05",
+            "Count": 210
+        },
+        {
+            "Purchase date": "2018-01-06",
+            "Count": 216
+        },
+        {
+            "Purchase date": "2018-01-07",
+            "Count": 196
+        },
+        {
+            "Purchase date": "2018-01-08",
+            "Count": 293
+        },
+        {
+            "Purchase date": "2018-01-09",
+            "Count": 252
+        },
+        {
+            "Purchase date": "2018-01-10",
+            "Count": 277
+        },
+        {
+            "Purchase date": "2018-01-11",
+            "Count": 266
+        },
+        {
+            "Purchase date": "2018-01-12",
+            "Count": 243
+        },
+        {
+            "Purchase date": "2018-01-13",
+            "Count": 219
+        },
+        {
+            "Purchase date": "2018-01-14",
+            "Count": 235
+        },
+        {
+            "Purchase date": "2018-01-15",
+            "Count": 307
+        },
+        {
+            "Purchase date": "2018-01-16",
+            "Count": 302
+        },
+        {
+            "Purchase date": "2018-01-17",
+            "Count": 282
+        },
+        {
+            "Purchase date": "2018-01-18",
+            "Count": 241
+        },
+        {
+            "Purchase date": "2018-01-19",
+            "Count": 235
+        },
+        {
+            "Purchase date": "2018-01-20",
+            "Count": 184
+        },
+        {
+            "Purchase date": "2018-01-21",
+            "Count": 199
+        },
+        {
+            "Purchase date": "2018-01-22",
+            "Count": 314
+        },
+        {
+            "Purchase date": "2018-01-23",
+            "Count": 262
+        },
+        {
+            "Purchase date": "2018-01-24",
+            "Count": 244
+        },
+        {
+            "Purchase date": "2018-01-25",
+            "Count": 233
+        },
+        {
+            "Purchase date": "2018-01-26",
+            "Count": 229
+        },
+        {
+            "Purchase date": "2018-01-27",
+            "Count": 153
+        },
+        {
+            "Purchase date": "2018-01-28",
+            "Count": 156
+        },
+        {
+            "Purchase date": "2018-01-29",
+            "Count": 246
+        },
+        {
+            "Purchase date": "2018-01-30",
+            "Count": 258
+        },
+        {
+            "Purchase date": "2018-01-31",
+            "Count": 256
+        },
+        {
+            "Purchase date": "2018-02-01",
+            "Count": 232
+        },
+        {
+            "Purchase date": "2018-02-02",
+            "Count": 212
+        },
+        {
+            "Purchase date": "2018-02-03",
+            "Count": 193
+        },
+        {
+            "Purchase date": "2018-02-04",
+            "Count": 201
+        },
+        {
+            "Purchase date": "2018-02-05",
+            "Count": 271
+        },
+        {
+            "Purchase date": "2018-02-06",
+            "Count": 268
+        },
+        {
+            "Purchase date": "2018-02-07",
+            "Count": 248
+        },
+        {
+            "Purchase date": "2018-02-08",
+            "Count": 230
+        },
+        {
+            "Purchase date": "2018-02-09",
+            "Count": 216
+        },
+        {
+            "Purchase date": "2018-02-10",
+            "Count": 179
+        },
+        {
+            "Purchase date": "2018-02-11",
+            "Count": 172
+        },
+        {
+            "Purchase date": "2018-02-12",
+            "Count": 218
+        },
+        {
+            "Purchase date": "2018-02-13",
+            "Count": 224
+        },
+        {
+            "Purchase date": "2018-02-14",
+            "Count": 295
+        },
+        {
+            "Purchase date": "2018-02-15",
+            "Count": 283
+        },
+        {
+            "Purchase date": "2018-02-16",
+            "Count": 214
+        },
+        {
+            "Purchase date": "2018-02-17",
+            "Count": 204
+        },
+        {
+            "Purchase date": "2018-02-18",
+            "Count": 202
+        },
+        {
+            "Purchase date": "2018-02-19",
+            "Count": 259
+        },
+        {
+            "Purchase date": "2018-02-20",
+            "Count": 289
+        },
+        {
+            "Purchase date": "2018-02-21",
+            "Count": 266
+        },
+        {
+            "Purchase date": "2018-02-22",
+            "Count": 279
+        },
+        {
+            "Purchase date": "2018-02-23",
+            "Count": 235
+        },
+        {
+            "Purchase date": "2018-02-24",
+            "Count": 191
+        },
+        {
+            "Purchase date": "2018-02-25",
+            "Count": 237
+        },
+        {
+            "Purchase date": "2018-02-26",
+            "Count": 299
+        },
+        {
+            "Purchase date": "2018-02-27",
+            "Count": 298
+        },
+        {
+            "Purchase date": "2018-02-28",
+            "Count": 313
+        },
+        {
+            "Purchase date": "2018-03-01",
+            "Count": 277
+        },
+        {
+            "Purchase date": "2018-03-02",
+            "Count": 266
+        },
+        {
+            "Purchase date": "2018-03-03",
+            "Count": 214
+        },
+        {
+            "Purchase date": "2018-03-04",
+            "Count": 236
+        },
+        {
+            "Purchase date": "2018-03-05",
+            "Count": 264
+        },
+        {
+            "Purchase date": "2018-03-06",
+            "Count": 271
+        },
+        {
+            "Purchase date": "2018-03-07",
+            "Count": 259
+        },
+        {
+            "Purchase date": "2018-03-08",
+            "Count": 234
+        },
+        {
+            "Purchase date": "2018-03-09",
+            "Count": 204
+        },
+        {
+            "Purchase date": "2018-03-10",
+            "Count": 193
+        },
+        {
+            "Purchase date": "2018-03-11",
+            "Count": 218
+        },
+        {
+            "Purchase date": "2018-03-12",
+            "Count": 232
+        },
+        {
+            "Purchase date": "2018-03-13",
+            "Count": 227
+        },
+        {
+            "Purchase date": "2018-03-14",
+            "Count": 199
+        },
+        {
+            "Purchase date": "2018-03-15",
+            "Count": 290
+        },
+        {
+            "Purchase date": "2018-03-16",
+            "Count": 252
+        },
+        {
+            "Purchase date": "2018-03-17",
+            "Count": 180
+        },
+        {
+            "Purchase date": "2018-03-18",
+            "Count": 215
+        },
+        {
+            "Purchase date": "2018-03-19",
+            "Count": 303
+        },
+        {
+            "Purchase date": "2018-03-20",
+            "Count": 297
+        },
+        {
+            "Purchase date": "2018-03-21",
+            "Count": 286
+        },
+        {
+            "Purchase date": "2018-03-22",
+            "Count": 254
+        },
+        {
+            "Purchase date": "2018-03-23",
+            "Count": 221
+        },
+        {
+            "Purchase date": "2018-03-24",
+            "Count": 165
+        },
+        {
+            "Purchase date": "2018-03-25",
+            "Count": 190
+        },
+        {
+            "Purchase date": "2018-03-26",
+            "Count": 272
+        },
+        {
+            "Purchase date": "2018-03-27",
+            "Count": 245
+        },
+        {
+            "Purchase date": "2018-03-28",
+            "Count": 220
+        },
+        {
+            "Purchase date": "2018-03-29",
+            "Count": 194
+        },
+        {
+            "Purchase date": "2018-03-30",
+            "Count": 165
+        },
+        {
+            "Purchase date": "2018-03-31",
+            "Count": 168
+        },
+        {
+            "Purchase date": "2018-04-01",
+            "Count": 207
+        },
+        {
+            "Purchase date": "2018-04-02",
+            "Count": 282
+        },
+        {
+            "Purchase date": "2018-04-03",
+            "Count": 247
+        },
+        {
+            "Purchase date": "2018-04-04",
+            "Count": 257
+        },
+        {
+            "Purchase date": "2018-04-05",
+            "Count": 266
+        },
+        {
+            "Purchase date": "2018-04-06",
+            "Count": 189
+        },
+        {
+            "Purchase date": "2018-04-07",
+            "Count": 164
+        },
+        {
+            "Purchase date": "2018-04-08",
+            "Count": 185
+        },
+        {
+            "Purchase date": "2018-04-09",
+            "Count": 253
+        },
+        {
+            "Purchase date": "2018-04-10",
+            "Count": 201
+        },
+        {
+            "Purchase date": "2018-04-11",
+            "Count": 274
+        },
+        {
+            "Purchase date": "2018-04-12",
+            "Count": 255
+        },
+        {
+            "Purchase date": "2018-04-13",
+            "Count": 202
+        },
+        {
+            "Purchase date": "2018-04-14",
+            "Count": 146
+        },
+        {
+            "Purchase date": "2018-04-15",
+            "Count": 223
+        },
+        {
+            "Purchase date": "2018-04-16",
+            "Count": 280
+        },
+        {
+            "Purchase date": "2018-04-17",
+            "Count": 266
+        },
+        {
+            "Purchase date": "2018-04-18",
+            "Count": 280
+        },
+        {
+            "Purchase date": "2018-04-19",
+            "Count": 293
+        },
+        {
+            "Purchase date": "2018-04-20",
+            "Count": 197
+        },
+        {
+            "Purchase date": "2018-04-21",
+            "Count": 156
+        },
+        {
+            "Purchase date": "2018-04-22",
+            "Count": 200
+        },
+        {
+            "Purchase date": "2018-04-23",
+            "Count": 285
+        },
+        {
+            "Purchase date": "2018-04-24",
+            "Count": 271
+        },
+        {
+            "Purchase date": "2018-04-25",
+            "Count": 284
+        },
+        {
+            "Purchase date": "2018-04-26",
+            "Count": 254
+        },
+        {
+            "Purchase date": "2018-04-27",
+            "Count": 242
+        },
+        {
+            "Purchase date": "2018-04-28",
+            "Count": 169
+        },
+        {
+            "Purchase date": "2018-04-29",
+            "Count": 171
+        },
+        {
+            "Purchase date": "2018-04-30",
+            "Count": 240
+        },
+        {
+            "Purchase date": "2018-05-01",
+            "Count": 256
+        },
+        {
+            "Purchase date": "2018-05-02",
+            "Count": 296
+        },
+        {
+            "Purchase date": "2018-05-03",
+            "Count": 305
+        },
+        {
+            "Purchase date": "2018-05-04",
+            "Count": 265
+        },
+        {
+            "Purchase date": "2018-05-05",
+            "Count": 197
+        },
+        {
+            "Purchase date": "2018-05-06",
+            "Count": 211
+        },
+        {
+            "Purchase date": "2018-05-07",
+            "Count": 372
+        },
+        {
+            "Purchase date": "2018-05-08",
+            "Count": 331
+        },
+        {
+            "Purchase date": "2018-05-09",
+            "Count": 344
+        },
+        {
+            "Purchase date": "2018-05-10",
+            "Count": 279
+        },
+        {
+            "Purchase date": "2018-05-11",
+            "Count": 247
+        },
+        {
+            "Purchase date": "2018-05-12",
+            "Count": 207
+        },
+        {
+            "Purchase date": "2018-05-13",
+            "Count": 207
+        },
+        {
+            "Purchase date": "2018-05-14",
+            "Count": 364
+        },
+        {
+            "Purchase date": "2018-05-15",
+            "Count": 352
+        },
+        {
+            "Purchase date": "2018-05-16",
+            "Count": 357
+        },
+        {
+            "Purchase date": "2018-05-17",
+            "Count": 228
+        },
+        {
+            "Purchase date": "2018-05-18",
+            "Count": 236
+        },
+        {
+            "Purchase date": "2018-05-19",
+            "Count": 139
+        },
+        {
+            "Purchase date": "2018-05-20",
+            "Count": 161
+        },
+        {
+            "Purchase date": "2018-05-21",
+            "Count": 206
+        },
+        {
+            "Purchase date": "2018-05-22",
+            "Count": 199
+        },
+        {
+            "Purchase date": "2018-05-23",
+            "Count": 132
+        },
+        {
+            "Purchase date": "2018-05-24",
+            "Count": 114
+        },
+        {
+            "Purchase date": "2018-05-25",
+            "Count": 104
+        },
+        {
+            "Purchase date": "2018-05-26",
+            "Count": 99
+        },
+        {
+            "Purchase date": "2018-05-27",
+            "Count": 100
+        },
+        {
+            "Purchase date": "2018-05-28",
+            "Count": 143
+        },
+        {
+            "Purchase date": "2018-05-29",
+            "Count": 149
+        },
+        {
+            "Purchase date": "2018-05-30",
+            "Count": 140
+        },
+        {
+            "Purchase date": "2018-05-31",
+            "Count": 133
+        },
+        {
+            "Purchase date": "2018-06-01",
+            "Count": 184
+        },
+        {
+            "Purchase date": "2018-06-02",
+            "Count": 142
+        },
+        {
+            "Purchase date": "2018-06-03",
+            "Count": 192
+        },
+        {
+            "Purchase date": "2018-06-04",
+            "Count": 225
+        },
+        {
+            "Purchase date": "2018-06-05",
+            "Count": 200
+        },
+        {
+            "Purchase date": "2018-06-06",
+            "Count": 227
+        },
+        {
+            "Purchase date": "2018-06-07",
+            "Count": 223
+        },
+        {
+            "Purchase date": "2018-06-08",
+            "Count": 198
+        },
+        {
+            "Purchase date": "2018-06-09",
+            "Count": 172
+        },
+        {
+            "Purchase date": "2018-06-10",
+            "Count": 193
+        },
+        {
+            "Purchase date": "2018-06-11",
+            "Count": 294
+        },
+        {
+            "Purchase date": "2018-06-12",
+            "Count": 246
+        },
+        {
+            "Purchase date": "2018-06-13",
+            "Count": 259
+        },
+        {
+            "Purchase date": "2018-06-14",
+            "Count": 212
+        },
+        {
+            "Purchase date": "2018-06-15",
+            "Count": 186
+        },
+        {
+            "Purchase date": "2018-06-16",
+            "Count": 165
+        },
+        {
+            "Purchase date": "2018-06-17",
+            "Count": 152
+        },
+        {
+            "Purchase date": "2018-06-18",
+            "Count": 246
+        },
+        {
+            "Purchase date": "2018-06-19",
+            "Count": 231
+        },
+        {
+            "Purchase date": "2018-06-20",
+            "Count": 217
+        },
+        {
+            "Purchase date": "2018-06-21",
+            "Count": 234
+        },
+        {
+            "Purchase date": "2018-06-22",
+            "Count": 179
+        },
+        {
+            "Purchase date": "2018-06-23",
+            "Count": 151
+        },
+        {
+            "Purchase date": "2018-06-24",
+            "Count": 199
+        },
+        {
+            "Purchase date": "2018-06-25",
+            "Count": 241
+        },
+        {
+            "Purchase date": "2018-06-26",
+            "Count": 243
+        },
+        {
+            "Purchase date": "2018-06-27",
+            "Count": 215
+        },
+        {
+            "Purchase date": "2018-06-28",
+            "Count": 243
+        },
+        {
+            "Purchase date": "2018-06-29",
+            "Count": 174
+        },
+        {
+            "Purchase date": "2018-06-30",
+            "Count": 124
+        },
+        {
+            "Purchase date": "2018-07-01",
+            "Count": 161
+        },
+        {
+            "Purchase date": "2018-07-02",
+            "Count": 195
+        },
+        {
+            "Purchase date": "2018-07-03",
+            "Count": 216
+        },
+        {
+            "Purchase date": "2018-07-04",
+            "Count": 256
+        },
+        {
+            "Purchase date": "2018-07-05",
+            "Count": 195
+        },
+        {
+            "Purchase date": "2018-07-06",
+            "Count": 121
+        },
+        {
+            "Purchase date": "2018-07-07",
+            "Count": 91
+        },
+        {
+            "Purchase date": "2018-07-08",
+            "Count": 122
+        },
+        {
+            "Purchase date": "2018-07-09",
+            "Count": 148
+        },
+        {
+            "Purchase date": "2018-07-10",
+            "Count": 134
+        },
+        {
+            "Purchase date": "2018-07-11",
+            "Count": 127
+        },
+        {
+            "Purchase date": "2018-07-12",
+            "Count": 124
+        },
+        {
+            "Purchase date": "2018-07-13",
+            "Count": 168
+        },
+        {
+            "Purchase date": "2018-07-14",
+            "Count": 148
+        },
+        {
+            "Purchase date": "2018-07-15",
+            "Count": 152
+        },
+        {
+            "Purchase date": "2018-07-16",
+            "Count": 245
+        },
+        {
+            "Purchase date": "2018-07-17",
+            "Count": 221
+        },
+        {
+            "Purchase date": "2018-07-18",
+            "Count": 307
+        },
+        {
+            "Purchase date": "2018-07-19",
+            "Count": 253
+        },
+        {
+            "Purchase date": "2018-07-20",
+            "Count": 250
+        },
+        {
+            "Purchase date": "2018-07-21",
+            "Count": 187
+        },
+        {
+            "Purchase date": "2018-07-22",
+            "Count": 215
+        },
+        {
+            "Purchase date": "2018-07-23",
+            "Count": 307
+        },
+        {
+            "Purchase date": "2018-07-24",
+            "Count": 271
+        },
+        {
+            "Purchase date": "2018-07-25",
+            "Count": 268
+        },
+        {
+            "Purchase date": "2018-07-26",
+            "Count": 247
+        },
+        {
+            "Purchase date": "2018-07-27",
+            "Count": 189
+        },
+        {
+            "Purchase date": "2018-07-28",
+            "Count": 176
+        },
+        {
+            "Purchase date": "2018-07-29",
+            "Count": 188
+        },
+        {
+            "Purchase date": "2018-07-30",
+            "Count": 288
+        },
+        {
+            "Purchase date": "2018-07-31",
+            "Count": 322
+        },
+        {
+            "Purchase date": "2018-08-01",
+            "Count": 311
+        },
+        {
+            "Purchase date": "2018-08-02",
+            "Count": 302
+        },
+        {
+            "Purchase date": "2018-08-03",
+            "Count": 314
+        },
+        {
+            "Purchase date": "2018-08-04",
+            "Count": 245
+        },
+        {
+            "Purchase date": "2018-08-05",
+            "Count": 276
+        },
+        {
+            "Purchase date": "2018-08-06",
+            "Count": 372
+        },
+        {
+            "Purchase date": "2018-08-07",
+            "Count": 370
+        },
+        {
+            "Purchase date": "2018-08-08",
+            "Count": 316
+        },
+        {
+            "Purchase date": "2018-08-09",
+            "Count": 289
+        },
+        {
+            "Purchase date": "2018-08-10",
+            "Count": 256
+        },
+        {
+            "Purchase date": "2018-08-11",
+            "Count": 188
+        },
+        {
+            "Purchase date": "2018-08-12",
+            "Count": 197
+        },
+        {
+            "Purchase date": "2018-08-13",
+            "Count": 292
+        },
+        {
+            "Purchase date": "2018-08-14",
+            "Count": 316
+        },
+        {
+            "Purchase date": "2018-08-15",
+            "Count": 288
+        },
+        {
+            "Purchase date": "2018-08-16",
+            "Count": 320
+        },
+        {
+            "Purchase date": "2018-08-17",
+            "Count": 257
+        },
+        {
+            "Purchase date": "2018-08-18",
+            "Count": 198
+        },
+        {
+            "Purchase date": "2018-08-19",
+            "Count": 204
+        },
+        {
+            "Purchase date": "2018-08-20",
+            "Count": 256
+        },
+        {
+            "Purchase date": "2018-08-21",
+            "Count": 243
+        },
+        {
+            "Purchase date": "2018-08-22",
+            "Count": 187
+        },
+        {
+            "Purchase date": "2018-08-23",
+            "Count": 144
+        },
+        {
+            "Purchase date": "2018-08-24",
+            "Count": 99
+        },
+        {
+            "Purchase date": "2018-08-25",
+            "Count": 69
+        },
+        {
+            "Purchase date": "2018-08-26",
+            "Count": 73
+        },
+        {
+            "Purchase date": "2018-08-27",
+            "Count": 67
+        },
+        {
+            "Purchase date": "2018-08-28",
+            "Count": 44
+        },
+        {
+            "Purchase date": "2018-08-29",
+            "Count": 14
+        },
+        {
+            "Purchase date": "2018-08-30",
+            "Count": 4
+        },
+        {
+            "Purchase date": "2018-08-31",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-09-03",
+            "Count": 4
+        },
+        {
+            "Purchase date": "2018-09-06",
+            "Count": 3
+        },
+        {
+            "Purchase date": "2018-09-10",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-09-11",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-09-12",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-09-13",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-09-17",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-09-20",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-09-25",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-09-26",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-09-29",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-10-01",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-10-03",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-10-16",
+            "Count": 1
+        },
+        {
+            "Purchase date": "2018-10-17",
+            "Count": 1
+        }
+    ]
+}

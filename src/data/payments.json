@@ -1,1 +1,27 @@
-{ "number_of_orders": 99440, "total_sales": 16008872.12, "avg_installments": 2.853348863176944 }
+{
+    "number_of_orders": 99440,
+    "total_sales": 16008872.12,
+    "avg_installments": 2.853348863176944,
+    "payment_types": [
+        {
+            "Payment type": "Credit card",
+            "Count": 76795
+        },
+        {
+            "Payment type": "Boleto",
+            "Count": 19784
+        },
+        {
+            "Payment type": "Voucher",
+            "Count": 5775
+        },
+        {
+            "Payment type": "Debit card",
+            "Count": 1529
+        },
+        {
+            "Payment type": "Not defined",
+            "Count": 3
+        }
+    ]
+}

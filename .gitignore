@@ -3,3 +3,6 @@ node_modules
 
 # Python environment
 env
+
+# Python cache
+__pycache__

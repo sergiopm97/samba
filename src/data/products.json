@@ -1,0 +1,296 @@
+{
+    "product_categories": [
+        {
+            "Product category": "Cama mesa banho",
+            "Count": 9319
+        },
+        {
+            "Product category": "Beleza saude",
+            "Count": 8798
+        },
+        {
+            "Product category": "Esporte lazer",
+            "Count": 7680
+        },
+        {
+            "Product category": "Informatica acessorios",
+            "Count": 6670
+        },
+        {
+            "Product category": "Moveis decoracao",
+            "Count": 6342
+        },
+        {
+            "Product category": "Utilidades domesticas",
+            "Count": 5826
+        },
+        {
+            "Product category": "Relogios presentes",
+            "Count": 5607
+        },
+        {
+            "Product category": "Telefonia",
+            "Count": 4187
+        },
+        {
+            "Product category": "Automotivo",
+            "Count": 3872
+        },
+        {
+            "Product category": "Brinquedos",
+            "Count": 3864
+        },
+        {
+            "Product category": "Cool stuff",
+            "Count": 3598
+        },
+        {
+            "Product category": "Ferramentas jardim",
+            "Count": 3497
+        },
+        {
+            "Product category": "Perfumaria",
+            "Count": 3149
+        },
+        {
+            "Product category": "Bebes",
+            "Count": 2832
+        },
+        {
+            "Product category": "Eletronicos",
+            "Count": 2538
+        },
+        {
+            "Product category": "Papelaria",
+            "Count": 2296
+        },
+        {
+            "Product category": "Fashion bolsas e acessorios",
+            "Count": 1858
+        },
+        {
+            "Product category": "Pet shop",
+            "Count": 1697
+        },
+        {
+            "Product category": "Moveis escritorio",
+            "Count": 1268
+        },
+        {
+            "Product category": "Consoles games",
+            "Count": 1058
+        },
+        {
+            "Product category": "Malas acessorios",
+            "Count": 1025
+        },
+        {
+            "Product category": "Eletrodomesticos",
+            "Count": 764
+        },
+        {
+            "Product category": "Construcao ferramentas construcao",
+            "Count": 740
+        },
+        {
+            "Product category": "Eletroportateis",
+            "Count": 628
+        },
+        {
+            "Product category": "Instrumentos musicais",
+            "Count": 622
+        },
+        {
+            "Product category": "Livros interesse geral",
+            "Count": 510
+        },
+        {
+            "Product category": "Casa construcao",
+            "Count": 474
+        },
+        {
+            "Product category": "Alimentos",
+            "Count": 446
+        },
+        {
+            "Product category": "Moveis sala",
+            "Count": 414
+        },
+        {
+            "Product category": "Casa conforto",
+            "Count": 362
+        },
+        {
+            "Product category": "Audio",
+            "Count": 345
+        },
+        {
+            "Product category": "Bebidas",
+            "Count": 294
+        },
+        {
+            "Product category": "Market place",
+            "Count": 278
+        },
+        {
+            "Product category": "Livros tecnicos",
+            "Count": 257
+        },
+        {
+            "Product category": "Climatizacao",
+            "Count": 252
+        },
+        {
+            "Product category": "Moveis cozinha area de servico jantar e jardim",
+            "Count": 245
+        },
+        {
+            "Product category": "Fashion calcados",
+            "Count": 239
+        },
+        {
+            "Product category": "Construcao ferramentas iluminacao",
+            "Count": 234
+        },
+        {
+            "Product category": "Eletrodomesticos 2",
+            "Count": 233
+        },
+        {
+            "Product category": "Industria comercio e negocios",
+            "Count": 233
+        },
+        {
+            "Product category": "Alimentos bebidas",
+            "Count": 223
+        },
+        {
+            "Product category": "Telefonia fixa",
+            "Count": 216
+        },
+        {
+            "Product category": "Artes",
+            "Count": 198
+        },
+        {
+            "Product category": "Construcao ferramentas jardim",
+            "Count": 187
+        },
+        {
+            "Product category": "Agro industria e comercio",
+            "Count": 182
+        },
+        {
+            "Product category": "Pcs",
+            "Count": 180
+        },
+        {
+            "Product category": "Construcao ferramentas seguranca",
+            "Count": 163
+        },
+        {
+            "Product category": "Sinalizacao e seguranca",
+            "Count": 140
+        },
+        {
+            "Product category": "Artigos de natal",
+            "Count": 128
+        },
+        {
+            "Product category": "Fashion underwear e moda praia",
+            "Count": 121
+        },
+        {
+            "Product category": "Fashion roupa masculina",
+            "Count": 111
+        },
+        {
+            "Product category": "Construcao ferramentas ferramentas",
+            "Count": 97
+        },
+        {
+            "Product category": "Moveis quarto",
+            "Count": 94
+        },
+        {
+            "Product category": "Tablets impressao imagem",
+            "Count": 78
+        },
+        {
+            "Product category": "Portateis casa forno e cafe",
+            "Count": 75
+        },
+        {
+            "Product category": "Cine foto",
+            "Count": 64
+        },
+        {
+            "Product category": "Dvds blu ray",
+            "Count": 58
+        },
+        {
+            "Product category": "Livros importados",
+            "Count": 52
+        },
+        {
+            "Product category": "Fashion roupa feminina",
+            "Count": 39
+        },
+        {
+            "Product category": "Artigos de festas",
+            "Count": 39
+        },
+        {
+            "Product category": "Moveis colchao e estofado",
+            "Count": 38
+        },
+        {
+            "Product category": "Musica",
+            "Count": 38
+        },
+        {
+            "Product category": "Flores",
+            "Count": 29
+        },
+        {
+            "Product category": "Fraldas higiene",
+            "Count": 27
+        },
+        {
+            "Product category": "Fashion esporte",
+            "Count": 25
+        },
+        {
+            "Product category": "Casa conforto 2",
+            "Count": 24
+        },
+        {
+            "Product category": "Artes e artesanato",
+            "Count": 22
+        },
+        {
+            "Product category": "Portateis cozinha e preparadores de alimentos",
+            "Count": 14
+        },
+        {
+            "Product category": "Cds dvds musicais",
+            "Count": 12
+        },
+        {
+            "Product category": "La cuisine",
+            "Count": 11
+        },
+        {
+            "Product category": "Pc gamer",
+            "Count": 7
+        },
+        {
+            "Product category": "Fashion roupa infanto juvenil",
+            "Count": 6
+        },
+        {
+            "Product category": "Seguros e servicos",
+            "Count": 2
+        }
+    ]
+}
